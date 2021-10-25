@@ -7,6 +7,14 @@
         "version": 0,
         "index": 0
       }
+    ],
+    "nextjs-blog/components/layout.module.css": [
+      {
+        "id": "07df0a7f-3e14-4371-8c23-48a33a032105",
+        "line": 15,
+        "version": 1,
+        "index": 194
+      }
     ]
   }
 }
