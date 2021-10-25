@@ -1,0 +1,20 @@
+{
+  "name": "CS5513-Week03-ancaduquette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "components": "^0.1.0",
+    "date-fns": "^2.25.0",
+    "gray-matter": "^4.0.3",
+    "next": "^11.1.2",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.2"
+  }
+}
